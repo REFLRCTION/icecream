@@ -1,4 +1,4 @@
-# AI Answer Fireworks
+# Poppy-AnswerBurst
 
 一个 Manifest V3 浏览器扩展：当 ChatGPT、Claude、Gemini 等 AI 聊天网页完成回答时，自动在当前激活的浏览器标签页上放一次轻量烟花。
 
@@ -24,12 +24,14 @@
 
 ## 本地安装
 
-1. 打开 Chrome 或 Edge。
-2. 进入 `chrome://extensions` 或 `edge://extensions`。
-3. 开启“开发者模式”。
-4. 点击“加载已解压的扩展程序”。
-5. 选择本项目目录：`C:\Users\Lenovo\Documents\firework`。
-6. 打开 ChatGPT、Claude 或 Gemini，发送一条消息，等待回答完成。
+1. 下载压缩包并解压。
+2. 打开 Chrome 或 Edge。
+3. 进入 `chrome://extensions` 或 `edge://extensions`。
+4. 开启“开发者模式”。
+5. 点击“加载已解压的扩展程序”。
+6. 选择压缩包解压到的文件夹。
+7. 打开 ChatGPT、Claude 或 Gemini，发送一条消息，等待回答完成。
+8. Answer完成后迎接Party Popper🎉！
 
 ## 关键文件
 
