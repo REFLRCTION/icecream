@@ -48,6 +48,26 @@
 
 ---
 
+## 🎬 效果预览
+
+<div align="center" style="background: url('16.png') center/cover no-repeat; padding: 60px 20px; border-radius: 12px;">
+
+### 🎆 烟花绽放效果
+
+![Fireworks Demo](16.png)
+
+</div>
+
+<div align="center" style="background: url('6967FD903E61BC970DF78BC45462DCAE.png') center/cover no-repeat; padding: 60px 20px; border-radius: 12px; margin-top: 20px;">
+
+### ⚙️ 设置面板界面
+
+![UI Preview](6967FD903E61BC970DF78BC45462DCAE.png)
+
+</div>
+
+---
+
 ## 🚀 快速开始
 
 ### 本地安装
@@ -163,6 +183,6 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 如果这个项目对你有帮助，欢迎 ⭐ Star 和 🍴 Fork！
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [fenyr]**
 
 </div>
